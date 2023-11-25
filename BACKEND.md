@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.6.0] - 2023-11-25
+
+### What's Changed
+
+- feat: icon management
+- fix: license must be unique
+- feat: add list of categories
+- improve: show action logs
+- feat: add list of templates
+- feat: package management
+- feat: address management
+- feat: add list of packages
+
 ## [3.5.0] - 2023-11-21
 
 ### What's Changed
